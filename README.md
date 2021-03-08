@@ -1,7 +1,14 @@
 # Hi There👋
 ### I'm student developer. I live in Korea! I'm learning a Vanilla JS. I Develop Discord Bot, Web.
-## LOVE
-+ APPLE
+## LIKE
++ apple
++ game
++ zelda
++ rap
+## UNLIKE
++ tomato
++ homework
++ english
 ### 
 # Statistics
 ![bear's Github Stats](https://github-readme-stats.vercel.app/api?username=angrycutebear&show_icons=true&theme=dark)
