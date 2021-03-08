@@ -1,11 +1,17 @@
 # Hi There👋
 ### I'm student developer. I live in Korea! I'm learning a Vanilla JS. I Develop Discord Bot, Web.
-## LIKE
+## Developing Projects
++ ...
+## Personal project
++ ...
+## Links
++ ...
+## Like
 + apple
 + game
 + zelda
 + rap
-## UNLIKE
+## Unlike
 + tomato
 + homework
 + english
