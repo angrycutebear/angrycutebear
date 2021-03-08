@@ -18,4 +18,4 @@
 ### 
 # Statistics
 ![bear's Github Stats](https://github-readme-stats.vercel.app/api?username=angrycutebear&show_icons=true&theme=dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angrycutebear&layout=compact&theme=dark)
+   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angrycutebear&layout=compact&theme=dark)
