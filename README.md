@@ -1,4 +1,4 @@
-# <img src="https://cdn.discordapp.com/attachments/803239809933115415/818424602236682270/-.-001-4.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+# <img src="https://cdn.discordapp.com/attachments/803239809933115415/818424602236682270/-.-001-4.png"></img>
 ### I'm student developer. I live in Korea! I'm learning a Vanilla JS. I Develop Discord Bot, Web.
 ## Developing Projects
 + ...
