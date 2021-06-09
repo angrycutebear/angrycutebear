@@ -1,5 +1,5 @@
 # Hi There 👋
-### I'm student developer. I live in Korea! I'm learning a Vanilla JS. I Develop Discord Bot, Web.
+### I'm student developer. I live in Korea! I'm learning a React JS. I Develop Discord Bot, Web.
 ## Developing Projects
 + ...
 ## Personal project
